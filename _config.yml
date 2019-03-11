@@ -5,7 +5,7 @@ sass:
     style: compressed
 plugins:
     plugins_dir: _plugins
-    group :jekyll_plugins do
+    group: jekyll_plugins do
         gem 'jekyll-minify-html'
     end
     
