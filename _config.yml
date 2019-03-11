@@ -5,3 +5,4 @@ sass:
     style: compressed
 plugins:
     plugins_dir: _plugins
+    - jekyll-minify-html
