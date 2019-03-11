@@ -1,2 +1,2 @@
 require "bundler/setup"
-Bundler.require(jekyll_plugins)
+Bundler.require(:jekyll_plugins)
