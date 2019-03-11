@@ -3,3 +3,8 @@ markdown: kramdown
 sass:
     sass_dir: _scss
     style: compressed
+plugins:
+    group :jekyll_plugins do
+        gem 'jekyll-minify-html'
+    end
+    
