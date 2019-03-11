@@ -1,3 +1,5 @@
 source "https://rubygems.org"
 gem 'github-pages'
-gem 'jekyll-minify-html'
+group :jekyll_plugins do
+        gem 'jekyll-minify-html'
+    end
