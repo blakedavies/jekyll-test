@@ -1,6 +1,6 @@
 title: Jekyll Test
 markdown: kramdown
-sass_dir: _sass
 sass:
+    sass_dir: _sass
     style: compressed
 plugins_dir: _plugins
