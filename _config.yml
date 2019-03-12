@@ -1,6 +1,5 @@
 title: Jekyll Test
 markdown: kramdown
-base_url: /
 sass:
     sass_dir: _sass
     style: compressed
