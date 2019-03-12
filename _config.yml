@@ -1,8 +1,7 @@
 title: Jekyll Test
 markdown: kramdown
 sass:
-    sass_dir: _scss
+    sass_dir: _sass
     style: compressed
 plugins:
     plugins_dir: _plugins
-    - jekyll-minify-html
